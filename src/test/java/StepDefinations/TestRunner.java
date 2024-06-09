@@ -6,7 +6,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features="src/test/resources/Feature",glue={"StepDefinations"}, monochrome=true,
-plugin = {"pretty","junit:target/JunitReports"}
+plugin = {"pretty", "html:target/cucumber-report", "json:target/cucumber.json"}, tags = "@taggooglesearch"
 		)
 public class TestRunner {
 

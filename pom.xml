@@ -5,6 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>test-automation</name>
   <description>This Project is sample runner projet to automation one application</description>
+
+
 <dependencies>
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 <dependency>
@@ -32,7 +34,6 @@
     <version>7.18.0</version>
     <scope>test</scope>
 </dependency>
-
 
 </dependencies>
 
