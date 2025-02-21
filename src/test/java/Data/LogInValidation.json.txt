@@ -1,0 +1,11 @@
+[{
+"username":"smasherrock33@gmail.com",        	
+"password": "Smasher@123",
+"product": "ADIDAS ORIGINAL"
+
+},
+{
+"username":"paper@gmail.com",        	
+"password": "paper@123",
+"product": "ADIDAS ORIGINAL"
+}]

@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Calender",
+            "request": "launch",
+            "mainClass": "Calender",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "Dropdown2",
+            "request": "launch",
+            "mainClass": "Dropdown2",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "Ecommerce",
+            "request": "launch",
+            "mainClass": "Ecommerce",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "Ecommerce1",
+            "request": "launch",
+            "mainClass": "Ecommerce1",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1",
+            "request": "launch",
+            "mainClass": "Exercise1",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2",
+            "request": "launch",
+            "mainClass": "Exercise2",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "JavaCode",
+            "request": "launch",
+            "mainClass": "JavaCode",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "Keyboardaction",
+            "request": "launch",
+            "mainClass": "Keyboardaction",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "Locators",
+            "request": "launch",
+            "mainClass": "Locators",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "WebDriverAction1",
+            "request": "launch",
+            "mainClass": "WebDriverAction1",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "WebNavigation",
+            "request": "launch",
+            "mainClass": "WebNavigation",
+            "projectName": "test-automation"
+        },
+        {
+            "type": "java",
+            "name": "WebdriverLaunch",
+            "request": "launch",
+            "mainClass": "WebdriverLaunch",
+            "projectName": "test-automation"
+        }
+    ]
+}
